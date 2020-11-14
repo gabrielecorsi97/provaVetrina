@@ -1,31 +1,22 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "prova"
-  }
-}
+        "prodottiOfferte": [
+          {
+            'nome': "maglia",
+            'descrizione': "maglia bella",
+            'marca': "nike",
+            'prezzo': 19.99,
+            'offerta': true,
+            'linkImmagine':
+                "https://images.eprice.it/nobrand/0/Lightbox/662/209180662/14327040.jpg"
+          },
+          {
+            'nome': "t-shirt",
+            'descrizione': "maglia bella",
+            'marca': "adidas",
+            'prezzo': 19.99,
+            'offerta': true,
+            'linkImmagine':
+                "https://images.eprice.it/nobrand/0/Lightbox/662/209180662/14327040.jpg"
+          }
+        ]
+      }
